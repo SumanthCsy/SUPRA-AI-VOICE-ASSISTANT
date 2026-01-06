@@ -1,0 +1,7 @@
+{
+  "name": "SUPRA AI Live Voice Assistant",
+  "description": "A cutting-edge, real-time voice assistant powered by Gemini 2.5 Live API featuring an interactive audio visualizer.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
